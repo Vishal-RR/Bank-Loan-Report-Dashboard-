@@ -62,3 +62,33 @@ Here's a simplified summary of the KPIs, Good Loan vs Bad Loan KPIs, Loan Status
   
 
 This summary provides a clear overview of the KPIs, categorizations, and charts planned for monitoring and analyzing lending operations.
+
+Certainly! Here's a summary point you can use to describe the data retrieval queries:
+
+---
+
+**Data Retrieval Queries:**
+
+These SQL queries extract essential information from the 'bank_loan_data' table, providing insights into our lending operations:
+
+- **Total Loan Applications:** Counting the total number of loan applications.
+  
+- **MTD Total Loan Applications:** Calculating Month-to-Date loan applications for a specific month.
+  
+- **Total Funded Amount:** Summing up the total amount of funds disbursed as loans.
+  
+- **MTD Total Funded Amount:** Determining Month-to-Date total funded amounts for a specific month.
+  
+- **Total Amount Received:** Calculating the total amount received from borrowers.
+  
+- **MTD Total Amount Received:** Computing Month-to-Date total received amounts for a specific month.
+  
+- **Average Interest Rate:** Finding the average interest rate across all loans.
+  
+- **Average Debt-to-Income Ratio (DTI):** Calculating the average DTI for borrowers.
+
+These queries also distinguish between good and bad loans, categorize loans by status, and provide insights through various visualizations, including monthly trends, regional analysis, and borrower demographics.
+
+--- 
+
+
