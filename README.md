@@ -1,18 +1,29 @@
 # Bank-Loan-Report-Dashboard-
 
-Sure, here's a simplified summary of the KPIs, Good Loan vs Bad Loan KPIs, Loan Status Grid View, and Charts:
+# Summary Dashboard
+![image](https://github.com/Vishal-RR/Bank-Loan-Report-Dashboard-/assets/104256950/bb10e825-905b-4d44-b6c0-12bb11ff7456)
+
+# Overview dashboard
+![image](https://github.com/Vishal-RR/Bank-Loan-Report-Dashboard-/assets/104256950/ad37168f-9a99-427b-ae92-788a50cff4e9)
+
+# Details Dashboard 
+![image](https://github.com/Vishal-RR/Bank-Loan-Report-Dashboard-/assets/104256950/3478c468-fcf3-4d75-b48f-2017ab9318c3)
+
+
+
+Here's a simplified summary of the KPIs, Good Loan vs Bad Loan KPIs, Loan Status Grid View, and Charts:
 
 # Summary of Key Performance Indicators (KPIs) Requirements:
 
 ## KPIs:
 
-1. **Total Loan Applications:** Track total number of loan applications, Month-to-Date (MTD) applications, and Month-over-Month (MoM) changes.
+1. **Total Loan Applications:** Track the total number of loan applications, Month-to-Date (MTD) applications, and Month-over-Month (MoM) changes.
   
 2. **Total Funded Amount:** Understand total funds disbursed as loans, MTD funded amount, and MoM changes.
   
-3. **Total Amount Received:** Monitor total amount received from borrowers, MTD amount received, and MoM changes.
+3. **Total Amount Received:** Monitor the total amount received from borrowers, MTD amount received, and MoM changes.
   
-4. **Average Interest Rate:** Calculate average interest rate across all loans, MTD rate, and MoM variations.
+4. **Average Interest Rate:** Calculate the average interest rate across all loans, MTD rate, and MoM variations.
   
 5. **Average Debt-to-Income Ratio (DTI):** Evaluate average DTI for borrowers, MTD DTI, and MoM fluctuations.
 
@@ -41,14 +52,13 @@ Sure, here's a simplified summary of the KPIs, Good Loan vs Bad Loan KPIs, Loan 
   
 2. **Regional Analysis by State (Filled Map):** Identify regions with significant lending activity and assess regional disparities.
   
-3. **Loan Term Analysis (Donut Chart):** Understand distribution of loans across various term lengths.
+3. **Loan Term Analysis (Donut Chart):** Understand the distribution of loans across various term lengths.
   
-4. **Employee Length Analysis (Bar Chart):** Assess impact of employment history on loan applications.
+4. **Employee Length Analysis (Bar Chart):** Assess the impact of employment history on loan applications.
   
 5. **Loan Purpose Breakdown (Bar Chart):** Visual breakdown of loan metrics based on loan purposes.
   
-6. **Home Ownership Analysis (Tree Map):** Hierarchical view of how home ownership impacts loan applications and disbursements.
+6. **Home Ownership Analysis (TreeMap):** Hierarchical view of how homeownership impacts loan applications and disbursements.
   
-- Metrics displayed: Total Loan Applications, Total Funded Amount, and Total Amount Received.
 
 This summary provides a clear overview of the KPIs, categorizations, and charts planned for monitoring and analyzing lending operations.
