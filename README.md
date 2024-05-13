@@ -63,8 +63,6 @@ Here's a simplified summary of the KPIs, Good Loan vs Bad Loan KPIs, Loan Status
 
 This summary provides a clear overview of the KPIs, categorizations, and charts planned for monitoring and analyzing lending operations.
 
-Certainly! Here's a summary point you can use to describe the data retrieval queries:
-
 ---
 
 **Data Retrieval Queries:**
