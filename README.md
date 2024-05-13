@@ -3,7 +3,7 @@
 # Summary Dashboard
 ![image](https://github.com/Vishal-RR/Bank-Loan-Report-Dashboard-/assets/104256950/bb10e825-905b-4d44-b6c0-12bb11ff7456)
 
-# Overview dashboard
+# Overview Dashboard
 ![image](https://github.com/Vishal-RR/Bank-Loan-Report-Dashboard-/assets/104256950/ad37168f-9a99-427b-ae92-788a50cff4e9)
 
 # Details Dashboard 
